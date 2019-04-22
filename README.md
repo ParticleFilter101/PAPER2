@@ -1,5 +1,5 @@
 # PAPER2
-This repository contains the MATLAB codes for the time-series prediction using (i) MMSE forecast of ARIMA models (ii) Kalman filter approach (iii)Artificial neural networks. The codes for the wavelet version of the above techniques is also presented here. Since the central idea is same, the code for Rainfall data and geophysical bore-well data follows the similar step.
+This repository contains the MATLAB codes for the time-series prediction using (i) MMSE forecast of ARIMA models (ii) Kalman filter approach (iii)Artificial neural networks. The codes for the wavelet version of the above techniques is also presented here. Since the central idea is same, the code for Rainfall data and geophysical bore-well data follows the similar steps.
 
 
 Following is the description of all the MATLAB files:
